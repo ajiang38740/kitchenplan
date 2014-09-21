@@ -8,8 +8,8 @@ attributes:
     homebrewalt:
         apps:
             - git
-        cask_apps:
-            - google-chrome
+#        cask_apps:
+#           - google-chrome
         cask_fonts:   
             - inconsolata
     nodejs:
